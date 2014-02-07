@@ -1,0 +1,33 @@
+body
+{
+	background-image: url("../img/surveyor.jpg");
+	color: yellow;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+
+#form_contain
+{
+	width: 500px;
+	height: 350px;
+	background-color: white;
+	border-radius: 25px;
+	border: solid black 3px;
+	margin-left: 400px;
+	font-size: 15px;
+	color: black;
+	padding: 25px;
+}
+
+#results
+{
+	width: 500px;
+	height: 350px;
+	background-color: white;
+	border-radius: 25px;
+	border: solid black 3px;
+	margin-left: 300px;
+	font-size: 30px;
+	color: black;
+	padding: 25px;
+}
